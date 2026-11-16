@@ -1,2 +1,0 @@
-# Student-Management-System-java-
-Student Management System is a Java-based project that helps manage student records. It allows users to add, view, search, update, and delete student details using OOP concepts, ArrayList, and File Handling.
